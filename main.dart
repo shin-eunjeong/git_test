@@ -53,7 +53,7 @@ String getResult(String userInput, String cpuInput){
         result = draw;
       }
     default:
-      result = '올바른 값을 입력 해주세요';
+      result = '올바르지 않는 값을 입력하셨습니다.';
   }
   return result;
 
