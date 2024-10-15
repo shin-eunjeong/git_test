@@ -14,6 +14,7 @@ void main(){
   // 3. 유저 타입과 컴퓨터 타입에 대한 결과를 계산할 함수
   final result = getResult(userInput, cpuInput);
   print(result);
+  //수정하기
 }
 String getResult(String userInput, String cpuInput){
   String result='';
